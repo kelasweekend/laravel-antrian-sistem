@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/kelasweekend/SJH_Garage/master/assets/img/logo.png" width="400" alt="logo"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kelasweekend/laravel-antrian-sistem/main/public/assets/logo.png" width="400" alt="logo"></p>
 
 ### Website Antrian
 
@@ -14,4 +14,4 @@ Platfrom Sistem Antrian Berbasis Website
 
 ### Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/kelasweekend/alfariz-trans/main/public/img/alfariz.png)
+![App Screenshot](https://raw.githubusercontent.com/kelasweekend/laravel-antrian-sistem/main/public/assets/siantri.png)
